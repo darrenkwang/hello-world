@@ -1,4 +1,4 @@
 # hello-world
 First repository
 
-Hi, my name is Darren Wang and I am currently a junior at Troy High School.
+Hello Sugar Labs, my name is Darren Wang and I am currently a junior at Troy High School.
